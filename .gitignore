@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 canteen.db
 .coverage
+
+# Frontend dependencies
+frontend/node_modules/
